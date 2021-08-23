@@ -1,10 +1,10 @@
 # MovieSearch-redux
 
-#Features
+# Features
 - Search movies 
 - Click on movies and all detail about movie will shown
 
-#Technologies
+# Technologies
 1.Redux
 2.Bootstrap
 
