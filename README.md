@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# MovieSearch-redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Features
+- Search movies 
+- Click on movies and all detail about movie will shown
+
+#Technologies
+1.Redux
+2.Bootstrap
+
 
 
 Netlify Link :- https://movies-react-redux.netlify.app/#/
